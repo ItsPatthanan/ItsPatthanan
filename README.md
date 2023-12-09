@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @ItsPatthanan<br>👀 I’m interested in System Integrator <br>🌱 I’m currently learning Computer Programming for Computer Engineering (ADVANCE)<br>i’m studying rajamangala university of technology lanna <br>Department CPE computer engineer 
+👋 Hi, I’m @ItsPatthanan<br>currently studying computer engineering at Ratchamongkol Lanna in Chiang Mai. I would like to learn about the various experiences of systems or network engineers. Because particularly interested in this field, I can learn quickly and get along well with others.
 
 
 ## 🌐 Socials:
